@@ -18,6 +18,7 @@ html,body{
     z-index: 99999;
     border-radius: 50%;
     background-color: white;
+    pointer-events: none;
 }
 
 .bounding{
